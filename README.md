@@ -7,3 +7,11 @@
 - **Database:** PostgreSQL, Flyway
 - **Build Tool:** Maven
 - **Version Control:** Git, GitHub
+## Features
+- User registration and authentication
+- Create and manage shortened URLs
+- Set expiration dates for shortened URLs (1-365 days)
+- View analytics for each shortened URL (click count)
+- Role-based access control (Admin/User)
+- Responsive web interface using Bootstrap
+- Database migrations handled by Flyway
