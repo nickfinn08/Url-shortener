@@ -23,4 +23,14 @@
 ### Pagination of public urls
 <img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/a8ef9ac1-64fb-48c4-a876-2a4a298cb0c1" />
 
+### Admin Dashboard
+<img width="1908" height="863" alt="image" src="https://github.com/user-attachments/assets/923ccc71-3b71-4447-a181-8564624a75b8" />
+
+### User Dashboard
+<img width="1894" height="894" alt="image" src="https://github.com/user-attachments/assets/3e2ff5d1-0f1e-4149-8e0a-102bd7322043" />
+
+
+
+
+
 
