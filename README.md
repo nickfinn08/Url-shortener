@@ -15,3 +15,8 @@
 - Role-based access control (Admin/User)
 - Responsive web interface using Bootstrap
 - Database migrations handled by Flyway
+
+##Visuals
+### App Dashboard
+  <img width="1911" height="649" alt="image" src="https://github.com/user-attachments/assets/be9463ea-cfaf-4485-a08d-7f64f925d375" />
+
