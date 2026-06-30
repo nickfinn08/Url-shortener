@@ -16,7 +16,11 @@
 - Responsive web interface using Bootstrap
 - Database migrations handled by Flyway
 
-##Visuals
+## Visuals
 ### App Dashboard
-  <img width="1911" height="649" alt="image" src="https://github.com/user-attachments/assets/be9463ea-cfaf-4485-a08d-7f64f925d375" />
+<img width="1911" height="649" alt="image" src="https://github.com/user-attachments/assets/be9463ea-cfaf-4485-a08d-7f64f925d375" />
+
+### Pagination of public urls
+<img width="1911" height="862" alt="image" src="https://github.com/user-attachments/assets/a8ef9ac1-64fb-48c4-a876-2a4a298cb0c1" />
+
 
